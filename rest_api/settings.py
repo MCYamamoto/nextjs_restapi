@@ -58,6 +58,7 @@ MIDDLEWARE = [
 ]
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
+    "https://mcyamamoto-nextjs-api.herokuapp.com"
 ]
 
 SIMPLE_JWT = {
